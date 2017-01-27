@@ -1,0 +1,99 @@
+body,html {
+  height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.wide {
+  width:100%;
+  height:100%;
+  height:calc(100% - 1px);
+  background-image:url('https://c.stocksy.com/a/RcN300/z0/805779.jpg');
+  background-size:cover;
+}
+
+.wide img {
+  width:100%;
+}
+
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:14pt;
+  padding:25px;
+  text-align:center;
+}
+
+.line {
+  padding-top:20px;
+  white-space:no-wrap;
+  overflow:hidden;
+  text-align:center;
+}
+
+
+/* CSS for fixed-fluid layout */
+
+.fixed {
+    width: 150px;  /* the fixed width required */
+    float: left;
+}
+
+.fixed + div {
+     margin-left: 150px;  /* must match the fixed width in the .fixed class */
+     overflow: hidden;
+}
+
+
+.container-fluid > .sidebar {
+    position: relative;
+    top: 0;
+    left:auto;
+    width: 220px; /* width of sidebar */
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float:right;
+}
+
+.container-fluid > .content {
+    margin: 0 240px; /* width of sidebars + 10px of margin */
+}
+
+
+
+
+.col-sm-6 {
+  background: #ccc;
+}
+
+.other {
+  background: #a4a4a4;
+}
+
+.p {
+  text-align: center;
+  padding-top: 120px;
+}
+
+.p a {
+  text-decoration: underline;
+  color: blue;
+}
+
+.glyphicon {
+  color:yellow;
+}
+ 
+footer {
+    padding-top: 20px;
+    border-top: 10px solid #332e20;
+    background-color: grey;
+}
+

@@ -1,0 +1,21 @@
+My Client Wants
+
+Hey,
+
+I hope you're doing well.
+Just heard from the client.
+They're willing to pay us $250/hr to build a site with the following requirements.
+
+A large, skeuomorphic header.
+A 2 column layout with the leftmost column as a nav.
+A short navbar which is always collapsed and slides down to reveal four items
+Lots of animated gifs
+Quite a few ways to get to the product page, sprinkled throughout the site.
+A footer with copyright information and a nice picture of the founder.
+Is that cool?
+Let me know ASAP.
+Thanks!
+
+Refresh to turn this client down and get a new one.
+
+Built for CodeCraft School of Technology in Boulder, CO.
